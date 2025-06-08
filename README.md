@@ -643,7 +643,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Sharnabh Banerjee**
 - 📧 Email: banerjeesharnabh@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/sharnabh-banerjee](https://linkedin.com/in/sharnabh)
-- 🐙 GitHub: [@sharnabh-banerjee](https://github.com/sharnabh-banerjee)
+- 🐙 GitHub: [@sharnabh-banerjee](https://github.com/Sharnabh)
 
 ### 🙏 **Acknowledgments**
 - **Hugging Face** for the emotion dataset and transformer models
@@ -653,23 +653,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support & Contact
-
-### 🆘 **Getting Help**
-- 📖 Check the [Documentation](docs/)
-- 🐛 Report issues on [GitHub Issues](https://github.com/yourusername/emotisense/issues)
-- 💬 Join our [Discord Community](https://discord.gg/emotisense)
-- 📧 Email: support@emotisense.ai
-
----
-
 <div align="center">
 
 **🧠 EmotiSense - Making AI Understand Human Emotions**
 
 *Built with ❤️ by the Sharnabh Banerjee*
 
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/emotisense?style=social)](https://github.com/yourusername/emotisense)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/emotisense?style=social)](https://twitter.com/emotisense)
+[![Star on GitHub](https://img.shields.io/github/stars/Sharnabh/EmotiSense-AI?style=social)](https://github.com/Sharnabh/EmotiSense-AI)
 
 </div>
