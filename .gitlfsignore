@@ -1,0 +1,11 @@
+# Large temporary files to ignore from LFS
+*.tmp
+*.temp
+*.log
+
+# Very large datasets (consider storing externally)
+# *.csv (uncomment if you have very large CSV files)
+
+# OS-specific files
+.DS_Store
+Thumbs.db

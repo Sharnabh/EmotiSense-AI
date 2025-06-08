@@ -1,0 +1,12 @@
+[lfs]
+	# Set a reasonable batch size for transfers
+	batch = true
+	
+	# Use a specific URL if needed (optional)
+	# url = https://github.com/yourusername/emotisense.git/info/lfs
+	
+	# Set transfer timeout (optional)
+	# activity-timeout = 30
+	
+	# Concurrent transfers (optional)
+	# concurrenttransfers = 8
